@@ -3,9 +3,9 @@
 > **Transform your development workflow with specialized AI agents for every coding challenge**
 
 [![Claude Code](https://img.shields.io/badge/Claude-Code-blue)](https://claude.ai/code)
-[![Agents](https://img.shields.io/badge/Agents-12-green)](#-agent-showcase)
+[![Agents](https://img.shields.io/badge/Agents-16-green)](#-agent-showcase)
 [![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![GitHub Stars](https://img.shields.io/github/stars/BareTread/claude-agents?style=social)](https://github.com/BareTread/claude-agents)
+[![GitHub Stars](https://img.shields.io/github/stars/BareTread/claude-agents)](https://github.com/BareTread/claude-agents/stargazers)
 
 **Claude Code Subagents** are specialized AI assistants that supercharge your development workflow. Each agent is an expert in a specific domain, automatically activated by Claude Code when you need them most.
 
@@ -122,10 +122,19 @@
 <td width="33%">
 
 **🧪 Test Master**
-- Comprehensive test suites
-- Automated testing strategies
-- Quality assurance
-- Bug prevention
+- Automated testing frameworks
+- Test suite architecture
+- CI/CD testing pipelines
+- Proactive quality assurance
+
+</td>
+<td width="33%">
+
+**🎯 Bug Hunter**
+- Crash investigation
+- Error log analysis
+- Production debugging
+- Root cause analysis
 
 </td>
 <td width="33%">
@@ -137,6 +146,38 @@
 - API documentation
 
 </td>
+</tr>
+</table>
+
+### 🔐 Security & Quality
+
+<table>
+<tr>
+<td width="50%">
+
+**🛡️ Security Guardian**
+- Vulnerability assessment
+- Security code reviews
+- Threat modeling
+- Compliance auditing
+
+</td>
+<td width="50%">
+
+**🤖 AI Integration Specialist**
+- AI API evaluation
+- ML model integration
+- Vector database design
+- Prompt engineering
+
+</td>
+</tr>
+</table>
+
+### 🎨 Specialized Tools
+
+<table>
+<tr>
 <td width="33%">
 
 **🎨 Swiss Design Agent**
@@ -146,12 +187,16 @@
 - Clean aesthetics
 
 </td>
-</tr>
-</table>
+<td width="33%">
 
-<table>
-<tr>
-<td width="50%">
+**📱 Mobile Architect**
+- iOS/Android optimization
+- Cross-platform frameworks
+- App store deployment
+- Mobile security patterns
+
+</td>
+<td width="33%">
 
 **🌐 Network Optimizer**
 - Performance diagnostics
@@ -160,6 +205,11 @@
 - DNS resolution
 
 </td>
+</tr>
+</table>
+
+<table>
+<tr>
 <td width="50%">
 
 **🕸️ Web Vacuum**
@@ -167,6 +217,9 @@
 - Web scraping
 - API integration
 - Content aggregation
+
+</td>
+<td width="50%">
 
 </td>
 </tr>
@@ -189,6 +242,15 @@ claude "Optimize these slow PostgreSQL queries"
 
 # Activates: devops-commander
 claude "Set up CI/CD pipeline for automated testing and deployment"
+
+# Activates: bug-hunter
+claude "My app crashes when users upload files - investigate and fix"
+
+# Activates: security-guardian
+claude "Review this authentication system for security vulnerabilities"
+
+# Activates: mobile-architect
+claude "Optimize my React Native app for iOS App Store submission"
 ```
 
 ### Manual Agent Invocation
@@ -218,7 +280,7 @@ We welcome contributions! Whether you want to:
 - 📚 **Enhance documentation** with more usage examples
 - 🐛 **Report issues** or suggest improvements
 
-See our [Contributing Guide](CONTRIBUTING.md) to get started.
+Feel free to open issues or submit pull requests!
 
 ## 📋 Requirements
 
