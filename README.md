@@ -3,7 +3,7 @@
 > **Transform your development workflow with specialized AI agents for every coding challenge**
 
 [![Claude Code](https://img.shields.io/badge/Claude-Code-blue)](https://claude.ai/code)
-[![Agents](https://img.shields.io/badge/Agents-30-green)](#-agent-showcase)
+[![Agents](https://img.shields.io/badge/Agents-42-green)](#-agent-showcase)
 [![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![GitHub Stars](https://img.shields.io/github/stars/BareTread/claude-agents)](https://github.com/BareTread/claude-agents/stargazers)
 
@@ -114,11 +114,11 @@
 <tr>
 <td width="33%">
 
-**🛡️ Zero Trust Security Architect (Elite)**
-- Identity-centric security architecture
+**🛡️ Security Guardian (Elite)**
+- Zero-trust security architecture
+- Vulnerability assessment & code review
 - Micro-segmentation engineering
 - Continuous verification monitoring
-- Cloud-native security integration
 
 </td>
 <td width="33%">
@@ -132,11 +132,11 @@
 </td>
 <td width="33%">
 
-**⚡ Performance Analyst (Elite)**
-- Advanced performance monitoring
-- Predictive bottleneck detection
-- Real-time optimization
-- Core Web Vitals mastery
+**⚡ Performance Visionary (Elite)**
+- Strategic performance architecture
+- Capacity planning & scaling
+- Long-term optimization roadmaps
+- Performance governance frameworks
 
 </td>
 </tr>
@@ -187,6 +187,12 @@
 - Application architecture design
 - Project scaffolding
 - Technical decision making
+
+**🎨 Frontend Architect**
+- React/Vue/Angular systems
+- Client-side performance
+- Frontend build systems
+- Component architecture
 
 **🔧 Backend Master**
 - API development
@@ -257,7 +263,16 @@
 - Vulnerability assessment
 - Security code reviews
 - Threat modeling
-- Penetration testing
+- Zero-trust architecture
+
+</td>
+<td width="33%">
+
+**🚨 Incident Response Manager**
+- Security incident coordination
+- Crisis management
+- Forensic investigation
+- Post-incident analysis
 
 </td>
 <td width="33%">
@@ -269,13 +284,27 @@
 - Audit trail design
 
 </td>
-<td width="33%">
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="50%">
 
 **🤖 AI Integration Specialist**
 - AI API evaluation
 - ML model integration
 - Vector database design
 - Prompt engineering
+
+</td>
+<td width="50%">
+
+**📊 Data Engineer**
+- ETL/ELT pipeline design
+- Data warehouse architecture
+- Real-time data processing
+- Data quality & governance
 
 </td>
 </tr>
@@ -313,10 +342,19 @@
 <td width="33%">
 
 **⚡ Performance Analyst**
-- Application performance monitoring
-- Load testing strategies
-- Bottleneck identification
-- Core Web Vitals optimization
+- Real-time performance monitoring
+- Application bottleneck analysis
+- Performance optimization
+- Core Web Vitals improvement
+
+</td>
+<td width="33%">
+
+**🎯 Load Testing Specialist**
+- Stress testing & capacity validation
+- Performance bottleneck identification
+- Scalability planning
+- System failure prevention
 
 </td>
 <td width="33%">
@@ -328,13 +366,27 @@
 - Conversion optimization
 
 </td>
-<td width="33%">
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="50%">
 
 **📚 Documentation Master**
 - Technical writing excellence
-- API documentation
+- API documentation & architecture
 - User onboarding guides
-- Knowledge architecture
+- Open source adoption optimization
+
+</td>
+<td width="50%">
+
+**👀 Code Review Specialist**
+- Systematic code review processes
+- Code quality standards
+- Pull request optimization
+- Team review culture
 
 </td>
 </tr>
@@ -355,17 +407,17 @@
 </td>
 <td width="50%">
 
-**📖 Docs Architect**
-- Documentation restructuring
-- Information architecture
-- Developer guides
-- Open source adoption
+**🔄 Code Whisperer**
+- Natural language to code translation
+- Intent-based code generation
+- Ambiguous requirement interpretation
+- Creative problem solving
 
 </td>
 </tr>
 </table>
 
-### 🎨 Specialized Tools
+### 🎨 Design & User Experience
 
 <table>
 <tr>
@@ -375,16 +427,41 @@
 - Minimalist layouts
 - Typography systems
 - Grid-based design
-- Clean aesthetics
+- Mathematical spacing
 
 </td>
+<td width="33%">
+
+**📱 Responsive Design Specialist**
+- Mobile-first CSS approaches
+- Viewport-specific layouts
+- Touch interaction optimization
+- Progressive enhancement
+
+</td>
+<td width="33%">
+
+**💎 User Empathy Engine (Elite)**
+- Deep user psychology analysis
+- Human-centered design
+- User journey intelligence
+- Empathetic technical translation
+
+</td>
+</tr>
+</table>
+
+### 🔧 Advanced Development Tools
+
+<table>
+<tr>
 <td width="33%">
 
 **📱 Mobile Architect**
 - iOS/Android optimization
 - Cross-platform frameworks
 - App store deployment
-- Mobile security patterns
+- Biometric authentication
 
 </td>
 <td width="33%">
@@ -396,12 +473,7 @@
 - DNS resolution
 
 </td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="50%">
+<td width="33%">
 
 **🕸️ Web Vacuum**
 - Data extraction
@@ -410,11 +482,137 @@
 - Content aggregation
 
 </td>
-<td width="50%">
+</tr>
+</table>
+
+### 💰 Business & Compliance
+
+<table>
+<tr>
+<td width="33%">
+
+**🔒 Payment Security Expert**
+- PCI DSS compliance
+- Fraud detection systems
+- Payment gateway security
+- Financial transaction protection
+
+</td>
+<td width="33%">
+
+**📋 GDPR Privacy Pro**
+- Privacy-by-design systems
+- Data processing agreements
+- Consent management
+- Privacy impact assessments
+
+</td>
+<td width="33%">
+
+**📋 Requirements Analyst**
+- Business requirement translation
+- User story creation
+- Product roadmap development
+- Feature prioritization
 
 </td>
 </tr>
 </table>
+
+### 🔧 Technical Debt & Quality
+
+<table>
+<tr>
+<td width="50%">
+
+**⚖️ Tech Debt Evaluator**
+- Technical debt assessment
+- Refactoring prioritization
+- Code quality analysis
+- Technical debt roadmaps
+
+</td>
+<td width="50%">
+
+**🏗️ Legacy Liberation Specialist (Elite)**
+- Legacy system modernization
+- Business logic extraction
+- Zero-downtime migrations
+- Risk-free architecture evolution
+
+</td>
+</tr>
+</table>
+
+### 🤖 AI & Integration
+
+<table>
+<tr>
+<td width="33%">
+
+**🧠 LLM Integration Specialist**
+- RAG system implementation
+- Prompt engineering strategies
+- Context window management
+- Fine-tuning workflows
+
+</td>
+<td width="33%">
+
+**🔗 MCP Protocol Integrator**
+- Agent interoperability design
+- Cross-platform workflows
+- Communication protocols
+- Modular agent capabilities
+
+</td>
+<td width="33%">
+
+**📄 CMS Architect**
+- Content management systems
+- Headless CMS design
+- Content delivery optimization
+- Content personalization
+
+</td>
+</tr>
+</table>
+
+## 🤝 Strategic Agent Pairing
+
+**Complete professional workflow chains for maximum efficiency:**
+
+### 🏗️ Complete Full-Stack Development
+- **Stack Architect** → **Frontend Architect** → **Backend Master** → **API Orchestrator** → **Database Genius**
+- **Mobile Architect** → **Responsive Design Specialist** → **Performance Analyst**
+
+### 🔐 Complete Security Operations
+- **Security Guardian** → **Incident Response Manager** → **Payment Security Expert** → **GDPR Privacy Pro**
+- **Cryptographic Implementation Specialist** → **Compliance Auditor**
+
+### ⚡ Complete Performance Pipeline
+- **Performance Visionary** → **Load Testing Specialist** → **Performance Analyst** → **Cost Engineer**
+- **Network Optimizer** → **Performance optimization** → **Monitoring**
+
+### 🧹 Complete Code Quality Pipeline
+- **Code Review Specialist** → **Codebase Cleaner** → **Tech Debt Evaluator** → **Legacy Liberation Specialist**
+- **Test Master** → **Bug Hunter** → **Security Guardian**
+
+### 📊 Complete Data & Analytics Pipeline
+- **Data Engineer** → **AI Integration Specialist** → **Analytics workflows** → **Business Intelligence**
+- **ETL/ELT processing** → **ML model integration** → **Performance optimization**
+
+### 🤖 Complete AI Development Chain
+- **Code Whisperer** → **LLM Integration Specialist** → **Token Optimizer**
+- **Requirements Analyst** → **AI Integration Specialist** → **Prompt Optimizer**
+
+### 📚 Complete Documentation & Adoption
+- **Documentation Master** → **Marketing Wizard** → **UX Research Analyst**
+- **Technical writing** → **Viral content** → **User experience validation**
+
+### 🧪 Complete Quality Assurance
+- **Test Master** → **Bug Hunter** → **Security Guardian** → **Production Monitoring**
+- **Automated testing** → **Issue investigation** → **Security validation**
 
 ## 💡 Usage Examples
 
