@@ -5,7 +5,7 @@
 [![Claude Code](https://img.shields.io/badge/Claude-Code-blue)](https://claude.ai/code)
 [![Agents](https://img.shields.io/badge/Agents-12-green)](#-agent-showcase)
 [![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![GitHub Stars](https://img.shields.io/github/stars/your-username/claude-agents?style=social)](https://github.com/your-username/claude-agents)
+[![GitHub Stars](https://img.shields.io/github/stars/BareTread/claude-agents?style=social)](https://github.com/BareTread/claude-agents)
 
 **Claude Code Subagents** are specialized AI assistants that supercharge your development workflow. Each agent is an expert in a specific domain, automatically activated by Claude Code when you need them most.
 
@@ -20,7 +20,7 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/claude-agents.git
+   git clone https://github.com/BareTread/claude-agents.git
    cd claude-agents
    ```
 
@@ -239,6 +239,6 @@ If you find these agents helpful, please consider starring the repository to hel
 
 **Built with ❤️ for the Claude Code community**
 
-[🌟 Star this repo](https://github.com/your-username/claude-agents) • [🐛 Report Bug](https://github.com/your-username/claude-agents/issues) • [💡 Request Agent](https://github.com/your-username/claude-agents/issues)
+[🌟 Star this repo](https://github.com/BareTread/claude-agents) • [🐛 Report Bug](https://github.com/BareTread/claude-agents/issues) • [💡 Request Agent](https://github.com/BareTread/claude-agents/issues)
 
 </div>
