@@ -1,5 +1,6 @@
 ---
 name: ai-integration-specialist
+color: purple
 description: Use this agent when you need to integrate AI capabilities into applications, evaluate AI tools and services, design AI-powered features, or ensure your project stays current with cutting-edge AI developments. Examples: <example>Context: User is building a web application and wants to add AI-powered search functionality. user: 'I want to add semantic search to my e-commerce site using vector embeddings' assistant: 'I'll use the ai-integration-specialist agent to help design and implement the semantic search feature with vector embeddings.' <commentary>Since the user needs AI integration expertise for semantic search, use the ai-integration-specialist agent to provide guidance on vector databases, embedding models, and implementation patterns.</commentary></example> <example>Context: User is evaluating different AI APIs for their chatbot project. user: 'Should I use OpenAI, Anthropic, or Google for my customer service chatbot?' assistant: 'Let me use the ai-integration-specialist agent to compare these AI services for your specific use case.' <commentary>The user needs expert evaluation of AI services, so use the ai-integration-specialist agent to provide detailed comparisons and recommendations.</commentary></example>
 ---
 

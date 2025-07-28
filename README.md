@@ -3,7 +3,7 @@
 > **Transform your development workflow with specialized AI agents for every coding challenge**
 
 [![Claude Code](https://img.shields.io/badge/Claude-Code-blue)](https://claude.ai/code)
-[![Agents](https://img.shields.io/badge/Agents-16-green)](#-agent-showcase)
+[![Agents](https://img.shields.io/badge/Agents-30-green)](#-agent-showcase)
 [![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![GitHub Stars](https://img.shields.io/github/stars/BareTread/claude-agents)](https://github.com/BareTread/claude-agents/stargazers)
 
@@ -43,6 +43,104 @@
    ```
 
 ## 🛠️ Agent Showcase
+
+### 🏆 Elite Tier Agents
+
+<table>
+<tr>
+<td width="33%">
+
+**🧪 Test Master (Elite)**
+- Intelligent test architecture
+- Predictive test engineering  
+- Quantum testing coverage
+- AI-powered test generation
+
+</td>
+<td width="33%">
+
+**⚡ Performance Visionary (Elite)**
+- Predictive performance intelligence
+- Real-time optimization
+- Sub-second experiences
+- Infinite scale architecture
+
+</td>
+<td width="33%">
+
+**🐛 Bug Hunter (Elite)**
+- Quantum bug investigation
+- Real-time digital forensics
+- Predictive bug intelligence
+- Elite debugging protocols
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="33%">
+
+**🧮 Algorithm Alchemist (Elite)**
+- Mathematical problem transmutation
+- Complexity optimization mastery
+- Advanced algorithm architecture
+- Performance engineering
+
+</td>
+<td width="33%">
+
+**🏗️ Legacy Liberation Specialist (Elite)**
+- Legacy system archaeology
+- Business logic DNA extraction
+- Risk-free architecture evolution
+- Zero-downtime migrations
+
+</td>
+<td width="33%">
+
+**💎 User Empathy Engine (Elite)**
+- Deep user psychology analysis
+- User journey intelligence
+- Empathetic technical translation
+- Human-centered design
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="33%">
+
+**🛡️ Zero Trust Security Architect (Elite)**
+- Identity-centric security architecture
+- Micro-segmentation engineering
+- Continuous verification monitoring
+- Cloud-native security integration
+
+</td>
+<td width="33%">
+
+**🔐 Cryptographic Implementation Specialist (Elite)**
+- Advanced cryptographic protocols
+- Mathematical security analysis
+- Post-quantum cryptography
+- Side-channel attack prevention
+
+</td>
+<td width="33%">
+
+**⚡ Performance Analyst (Elite)**
+- Advanced performance monitoring
+- Predictive bottleneck detection
+- Real-time optimization
+- Core Web Vitals mastery
+
+</td>
+</tr>
+</table>
 
 ### 🔧 Core Development Agents
 
@@ -149,26 +247,119 @@
 </tr>
 </table>
 
-### 🔐 Security & Quality
+### 🔐 Security & Compliance
 
 <table>
 <tr>
-<td width="50%">
+<td width="33%">
 
 **🛡️ Security Guardian**
 - Vulnerability assessment
 - Security code reviews
 - Threat modeling
-- Compliance auditing
+- Penetration testing
 
 </td>
-<td width="50%">
+<td width="33%">
+
+**📋 Compliance Auditor**
+- GDPR/HIPAA compliance
+- Regulatory assessments
+- Data protection audits
+- Audit trail design
+
+</td>
+<td width="33%">
 
 **🤖 AI Integration Specialist**
 - AI API evaluation
 - ML model integration
 - Vector database design
 - Prompt engineering
+
+</td>
+</tr>
+</table>
+
+### 💰 Cost Optimization
+
+<table>
+<tr>
+<td width="50%">
+
+**💎 Token Optimizer**
+- LLM inference cost reduction
+- AI model selection
+- Prompt efficiency optimization
+- Usage monitoring
+
+</td>
+<td width="50%">
+
+**⚙️ Cost Engineer**
+- Infrastructure cost analysis
+- Cloud optimization
+- Resource right-sizing
+- Third-party service audits
+
+</td>
+</tr>
+</table>
+
+### 📊 Analytics & Research
+
+<table>
+<tr>
+<td width="33%">
+
+**⚡ Performance Analyst**
+- Application performance monitoring
+- Load testing strategies
+- Bottleneck identification
+- Core Web Vitals optimization
+
+</td>
+<td width="33%">
+
+**🎯 UX Research Analyst**
+- User experience research
+- Usability testing analysis
+- Accessibility compliance
+- Conversion optimization
+
+</td>
+<td width="33%">
+
+**📚 Documentation Master**
+- Technical writing excellence
+- API documentation
+- User onboarding guides
+- Knowledge architecture
+
+</td>
+</tr>
+</table>
+
+### 🎨 Marketing & Content
+
+<table>
+<tr>
+<td width="50%">
+
+**🧙 Marketing Wizard**
+- Viral README creation
+- Product positioning
+- Launch campaigns
+- Developer psychology
+
+</td>
+<td width="50%">
+
+**📖 Docs Architect**
+- Documentation restructuring
+- Information architecture
+- Developer guides
+- Open source adoption
 
 </td>
 </tr>
@@ -251,6 +442,12 @@ claude "Review this authentication system for security vulnerabilities"
 
 # Activates: mobile-architect
 claude "Optimize my React Native app for iOS App Store submission"
+
+# Activates: token-optimizer
+claude "My OpenAI bill is $500/month, help me reduce AI costs"
+
+# Activates: performance-analyst
+claude "My app loads slowly, need comprehensive performance analysis"
 ```
 
 ### Manual Agent Invocation
