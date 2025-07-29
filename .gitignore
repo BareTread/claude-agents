@@ -5,6 +5,7 @@ CLAUDE.md
 # Git directory
 .git/
 .docs/
+.gitignore
 
 # Common development files
 node_modules/
