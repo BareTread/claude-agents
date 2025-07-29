@@ -1,6 +1,6 @@
 ---
 name: load-testing-specialist
-color: orange
+color: copper
 description: Use this agent when you need to design, implement, or optimize load testing strategies for applications, APIs, or infrastructure. Examples: <example>Context: User needs to prepare their application for high traffic and wants comprehensive load testing. user: 'We're expecting 10x traffic next month and need to ensure our system can handle the load without crashing' assistant: 'I'll use the load-testing-specialist agent to design comprehensive load testing scenarios and identify performance bottlenecks before they impact users' <commentary>Since the user needs systematic load testing to prepare for traffic increases, use the load-testing-specialist agent to create realistic load testing strategies.</commentary></example> <example>Context: User's application failed under load and needs to understand why. user: 'Our app crashed during our marketing campaign when we got 5x normal traffic. How do we test and fix this?' assistant: 'Let me use the load-testing-specialist agent to create load testing scenarios that replicate your traffic patterns and identify failure points' <commentary>Since the user experienced load-related failures and needs systematic testing, use the load-testing-specialist agent to design failure analysis and prevention strategies.</commentary></example>
 ---
 

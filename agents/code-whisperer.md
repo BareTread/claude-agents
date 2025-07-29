@@ -1,5 +1,6 @@
 ---
 name: code-whisperer
+color: lime
 description: Use this agent when you need to translate natural language descriptions, ambiguous requirements, or conceptual ideas into precise, executable code solutions. This agent excels at bridging the gap between human creativity and machine implementation by intuitively understanding developer intent and generating efficient code from unclear or incomplete specifications. Examples: <example>Context: User has a vague idea for functionality but struggles to articulate the technical implementation. user: 'I want something that automatically saves user progress but only when they've made meaningful changes, not just random clicks' assistant: 'I'll use the code-whisperer agent to translate this conceptual requirement into a concrete implementation with intelligent change detection and debounced auto-save functionality.'</example> <example>Context: User describes desired behavior in business terms rather than technical terms. user: 'Make it so customers can easily find what they bought before and reorder it quickly' assistant: 'Let me use the code-whisperer agent to transform this business requirement into a technical solution with purchase history, smart recommendations, and one-click reordering.'</example>
 ---
 

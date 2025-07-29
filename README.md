@@ -3,7 +3,7 @@
 > **Transform your development workflow with specialized AI agents for every coding challenge**
 
 [![Claude Code](https://img.shields.io/badge/Claude-Code-blue)](https://claude.ai/code)
-[![Agents](https://img.shields.io/badge/Agents-42-green)](#-agent-showcase)
+[![Agents](https://img.shields.io/badge/Agents-41-green)](#-agent-showcase)
 [![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![GitHub Stars](https://img.shields.io/github/stars/BareTread/claude-agents)](https://github.com/BareTread/claude-agents/stargazers)
 
@@ -292,10 +292,10 @@
 <td width="50%">
 
 **🤖 AI Integration Specialist**
-- AI API evaluation
-- ML model integration
-- Vector database design
-- Prompt engineering
+- AI API evaluation & LLM integration
+- RAG system implementation
+- Vector database design & ML models
+- Prompt engineering & fine-tuning
 
 </td>
 <td width="50%">
@@ -550,11 +550,11 @@
 <tr>
 <td width="33%">
 
-**🧠 LLM Integration Specialist**
-- RAG system implementation
-- Prompt engineering strategies
-- Context window management
-- Fine-tuning workflows
+**🔄 Code Whisperer**
+- Natural language to code translation
+- Intent-based code generation  
+- Ambiguous requirement interpretation
+- Creative problem solving
 
 </td>
 <td width="33%">
@@ -603,7 +603,7 @@
 - **ETL/ELT processing** → **ML model integration** → **Performance optimization**
 
 ### 🤖 Complete AI Development Chain
-- **Code Whisperer** → **LLM Integration Specialist** → **Token Optimizer**
+- **Code Whisperer** → **AI Integration Specialist** → **Token Optimizer**
 - **Requirements Analyst** → **AI Integration Specialist** → **Prompt Optimizer**
 
 ### 📚 Complete Documentation & Adoption

@@ -1,5 +1,6 @@
 ---
 name: responsive-design-specialist
+color: sky
 description: Use this agent when you need to create or optimize responsive web designs that work seamlessly across all device sizes, implement mobile-first CSS approaches, handle viewport-specific layouts, optimize touch interactions, or ensure progressive enhancement from mobile to desktop experiences. Examples: <example>Context: User is building a new landing page that needs to work on phones, tablets, and desktops. user: 'I need to create a hero section that looks great on all devices' assistant: 'I'll use the responsive-design-specialist agent to create a mobile-first hero section with progressive enhancement' <commentary>Since the user needs responsive design across devices, use the responsive-design-specialist agent to implement mobile-first approaches.</commentary></example> <example>Context: User has a desktop-only website that needs mobile optimization. user: 'My website looks terrible on mobile devices, can you help fix the responsive issues?' assistant: 'Let me use the responsive-design-specialist agent to audit and fix the mobile responsiveness issues' <commentary>The user has responsive design problems, so use the responsive-design-specialist agent to implement mobile-first solutions.</commentary></example>
 ---
 

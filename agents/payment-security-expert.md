@@ -1,5 +1,6 @@
 ---
 name: payment-security-expert
+color: emerald
 description: Use this agent when implementing payment processing systems, ensuring PCI DSS compliance, designing fraud detection mechanisms, integrating payment gateways, securing financial transactions, or addressing payment security vulnerabilities. Examples: <example>Context: User needs to implement a secure payment system for an e-commerce platform. user: 'I need to add payment processing to my online store with credit card support' assistant: 'I'll use the payment-security-expert agent to design a PCI DSS compliant payment system with proper security measures.' <commentary>Since the user needs payment processing implementation, use the payment-security-expert agent to ensure secure, compliant payment handling.</commentary></example> <example>Context: User discovers suspicious payment activity and needs fraud detection. user: 'We're seeing unusual payment patterns that might be fraudulent transactions' assistant: 'Let me engage the payment-security-expert agent to analyze these patterns and implement fraud detection mechanisms.' <commentary>Since this involves potential payment fraud, use the payment-security-expert agent to investigate and implement prevention measures.</commentary></example>
 ---
 

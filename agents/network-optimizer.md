@@ -1,6 +1,6 @@
 ---
 name: network-optimizer
-color: cyan
+color: aqua
 description: Use this agent when you need to diagnose, optimize, or troubleshoot internet connection performance issues. This includes scenarios like slow browsing, poor streaming quality, high latency in games, DNS resolution problems, or general network connectivity issues. Examples: <example>Context: User is experiencing slow internet speeds and wants to identify the bottleneck. user: 'My internet feels really slow today, can you help figure out what's wrong?' assistant: 'I'll use the network-optimizer agent to run comprehensive diagnostics and identify what's causing your slow connection.' <commentary>Since the user is experiencing network performance issues, use the network-optimizer agent to diagnose and fix the problem.</commentary></example> <example>Context: User mentions their video calls keep dropping or have poor quality. user: 'My Zoom calls keep freezing and the quality is terrible' assistant: 'Let me use the network-optimizer agent to analyze your connection and optimize it for video conferencing.' <commentary>Video call issues often indicate network problems, so the network-optimizer agent should be used to diagnose and resolve connectivity issues.</commentary></example>
 ---
 

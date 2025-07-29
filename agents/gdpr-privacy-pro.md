@@ -1,5 +1,6 @@
 ---
 name: gdpr-privacy-pro
+color: indigo
 description: Use this agent when implementing GDPR compliance measures, designing privacy-by-design systems, creating data processing agreements, implementing consent management systems, conducting privacy impact assessments, or ensuring data protection compliance in applications. Examples: <example>Context: User is building a web application that collects user data and needs GDPR compliance. user: 'I need to implement GDPR compliance for my e-commerce site that collects customer data' assistant: 'I'll use the gdpr-privacy-pro agent to help you implement comprehensive GDPR compliance measures for your e-commerce platform.' <commentary>Since the user needs GDPR compliance implementation, use the gdpr-privacy-pro agent to provide comprehensive privacy compliance guidance.</commentary></example> <example>Context: User needs to create data processing agreements for third-party integrations. user: 'We're integrating with several third-party services and need proper data processing agreements' assistant: 'Let me use the gdpr-privacy-pro agent to help you create compliant data processing agreements for your third-party integrations.' <commentary>Since the user needs data processing agreements, use the gdpr-privacy-pro agent to ensure GDPR-compliant documentation.</commentary></example>
 ---
 

@@ -1,5 +1,6 @@
 ---
 name: cms-architect
+color: pink
 description: Use this agent when you need to design, implement, or optimize content management systems, content delivery networks, or content personalization features. Examples: <example>Context: User wants to build a headless CMS for their e-commerce site. user: 'I need to create a content management system that can handle product descriptions, blog posts, and marketing content for multiple channels' assistant: 'I'll use the cms-architect agent to design a comprehensive content management solution for your multi-channel needs' <commentary>Since the user needs CMS architecture and implementation, use the cms-architect agent to provide specialized content management expertise.</commentary></example> <example>Context: User is struggling with slow content loading times. user: 'Our website content is loading slowly and we need better content delivery optimization' assistant: 'Let me use the cms-architect agent to analyze and optimize your content delivery strategy' <commentary>Since this involves content delivery optimization, the cms-architect agent should handle this specialized task.</commentary></example>
 ---
 

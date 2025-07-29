@@ -1,6 +1,6 @@
 ---
 name: documentation-master
-color: blue
+color: steel
 description: Use this agent when you need to create, improve, or restructure technical documentation including API documentation, user guides, onboarding materials, README files, or any content that helps users understand and adopt complex technical projects. Examples: <example>Context: User has built a complex API and needs comprehensive documentation for open source release. user: 'I've built this REST API for managing user authentication but I need proper documentation so other developers can actually use it' assistant: 'I'll use the documentation-master agent to create comprehensive API documentation with examples and integration guides' <commentary>Since the user needs technical documentation for developer adoption, use the documentation-master agent to create structured API docs.</commentary></example> <example>Context: User has a project with poor README that's hindering adoption. user: 'My open source project has low adoption rates. The README is confusing and doesn't explain the value proposition clearly.' assistant: 'Let me use the documentation-master agent to analyze and rewrite your README with clear value propositions, installation guides, and usage examples.' <commentary>Since the user needs to improve project documentation for better adoption, use the documentation-master agent to create compelling, accessible documentation.</commentary></example>
 ---
 

@@ -1,5 +1,6 @@
 ---
 name: mcp-protocol-integrator
+color: violet
 description: Use this agent when you need to implement Model Context Protocol (MCP) standards for agent interoperability, create modular agent capabilities, design cross-platform agent workflows, or establish communication protocols between different AI tools and systems. Examples: <example>Context: User wants to create a system where multiple AI agents can work together across different platforms. user: 'I need to set up a workflow where my code review agent can communicate with my testing agent and deployment agent across different tools' assistant: 'I'll use the mcp-protocol-integrator agent to design the MCP-compliant communication protocols and workflow orchestration' <commentary>Since the user needs agent interoperability and cross-platform workflows, use the mcp-protocol-integrator agent to implement MCP standards.</commentary></example> <example>Context: User is building a modular agent system that needs to be composable. user: 'How can I make my agents work together and share context efficiently?' assistant: 'Let me use the mcp-protocol-integrator agent to design the modular architecture and protocol implementation' <commentary>The user needs modular agent capabilities and interoperability, which requires MCP protocol expertise.</commentary></example>
 ---
 

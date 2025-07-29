@@ -1,6 +1,6 @@
 ---
 name: web-vacuum
-color: green
+color: olive
 description: Use this agent when you need to extract, scrape, or collect data from websites, web APIs, or online sources. Examples: <example>Context: User needs to gather product information from an e-commerce site for analysis. user: 'I need to scrape product prices and reviews from this online store' assistant: 'I'll use the web-vacuum agent to handle the web scraping task' <commentary>Since the user needs data extraction from a website, use the web-vacuum agent to scrape the required information safely and efficiently.</commentary></example> <example>Context: User wants to monitor competitor pricing across multiple websites. user: 'Can you help me track pricing changes on these competitor websites daily?' assistant: 'Let me use the web-vacuum agent to set up the web scraping for competitor price monitoring' <commentary>The user needs ongoing web data collection, so the web-vacuum agent should handle the scraping strategy and implementation.</commentary></example>
 ---
 

@@ -1,6 +1,6 @@
 ---
 name: ux-research-analyst
-color: teal
+color: seafoam
 description: Use this agent when you need to conduct user experience research, analyze user behavior data, evaluate interface usability, assess accessibility compliance, develop user personas, or optimize conversion rates. Examples: <example>Context: The user wants to analyze user feedback and create actionable UX improvements. user: 'I have user feedback from our latest app release and need to identify the main pain points and suggest improvements' assistant: 'I'll use the Task tool to launch the ux-research-analyst agent to analyze your user feedback and provide actionable UX recommendations' <commentary>Since the user needs UX analysis and recommendations, use the ux-research-analyst agent to systematically analyze feedback and provide data-driven insights.</commentary></example> <example>Context: The user needs to evaluate their website's accessibility compliance. user: 'Can you help me audit our website for accessibility issues and create a remediation plan?' assistant: 'I'll use the ux-research-analyst agent to conduct a comprehensive accessibility audit and develop a prioritized remediation strategy' <commentary>Since this involves accessibility evaluation and compliance analysis, the ux-research-analyst agent should handle this systematic assessment.</commentary></example>
 ---
 

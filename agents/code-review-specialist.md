@@ -1,6 +1,6 @@
 ---
 name: code-review-specialist
-color: purple
+color: slate
 description: Use this agent when you need to conduct systematic code reviews, establish code quality standards, or optimize pull request workflows. Examples: <example>Context: User wants to improve their team's code review process and establish quality standards. user: 'Our code reviews are inconsistent and miss important issues. How can we create a systematic review process that catches problems early?' assistant: 'I'll use the code-review-specialist agent to design comprehensive code review standards and create systematic review workflows for your team' <commentary>Since the user needs systematic code review process improvement, use the code-review-specialist agent to establish quality standards and review procedures.</commentary></example> <example>Context: User has a complex pull request that needs thorough review before merging. user: 'This PR refactors our authentication system and touches many files. Can you provide a comprehensive code review focusing on security and maintainability?' assistant: 'Let me use the code-review-specialist agent to conduct a thorough security-focused code review of your authentication refactoring' <commentary>Since the user needs detailed code review with security focus, use the code-review-specialist agent for systematic analysis.</commentary></example>
 ---
 

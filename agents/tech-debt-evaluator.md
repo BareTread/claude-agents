@@ -1,5 +1,6 @@
 ---
 name: tech-debt-evaluator
+color: amber
 description: Use this agent when you need to assess technical debt in a codebase, prioritize refactoring efforts, or create technical debt reduction roadmaps. Examples: <example>Context: User has a legacy codebase with performance issues and wants to understand what needs refactoring first. user: 'Our application is getting slower and harder to maintain. Can you help me identify the biggest technical debt issues?' assistant: 'I'll use the tech-debt-evaluator agent to analyze your codebase and create a prioritized technical debt assessment.' <commentary>The user is asking for technical debt analysis, so use the tech-debt-evaluator agent to assess the codebase and provide prioritized recommendations.</commentary></example> <example>Context: Development team needs a roadmap for addressing accumulated technical debt over the next quarter. user: 'We have some budget allocated for refactoring work. What should we focus on first to get the biggest impact?' assistant: 'Let me use the tech-debt-evaluator agent to analyze your technical debt and create a strategic refactoring roadmap.' <commentary>This requires technical debt assessment and prioritization, perfect for the tech-debt-evaluator agent.</commentary></example>
 ---
 
