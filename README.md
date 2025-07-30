@@ -3,11 +3,29 @@
 > **Transform your development workflow with specialized AI agents for every coding challenge**
 
 [![Claude Code](https://img.shields.io/badge/Claude-Code-blue)](https://claude.ai/code)
-[![Agents](https://img.shields.io/badge/Agents-41-green)](#-agent-showcase)
+[![Agents](https://img.shields.io/badge/Agents-44-green)](#-agent-showcase)
 [![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![GitHub Stars](https://img.shields.io/github/stars/BareTread/claude-agents)](https://github.com/BareTread/claude-agents/stargazers)
 
 **Claude Code Subagents** are specialized AI assistants that supercharge your development workflow. Each agent is an expert in a specific domain, automatically activated by Claude Code when you need them most.
+
+## 🧭 Quick Navigation
+
+**🔍 Not sure which agent you need?** Use the **[agent-selector](#agent-selector)** to find the perfect specialist for your task!
+
+### By Problem Type
+- **🐛 Something's broken?** → [bug-hunter](#bug-hunter) | [network-optimizer](#network-optimizer)
+- **🚀 Need optimization?** → [performance-analyst](#performance-analyst) | [algorithm-alchemist](#algorithm-alchemist)
+- **🏗️ Starting fresh?** → [stack-architect](#stack-architect) | [database-genius](#database-genius)
+- **🔒 Security concerns?** → [security-guardian](#security-guardian) | [payment-security-expert](#payment-security-expert)
+- **📊 Need insights?** → [observability-engineer](#observability-engineer) | [ux-research-analyst](#ux-research-analyst)
+
+### By Technology
+- **⚛️ React/Frontend** → [frontend-architect](#frontend-architect) | [polish-master](#polish-master)
+- **🔗 APIs** → [api-orchestrator](#api-orchestrator) | [graphql-specialist](#graphql-specialist)
+- **☁️ Cloud/DevOps** → [devops-commander](#devops-commander) | [cost-engineer](#cost-engineer)
+- **📱 Mobile** → [mobile-architect](#mobile-architect) | [responsive-design-specialist](#responsive-design-specialist)
+- **🤖 AI/ML** → [ai-integration-specialist](#ai-integration-specialist) | [token-optimizer](#token-optimizer)
 
 ## ✨ What Makes This Special?
 
@@ -573,6 +591,40 @@
 - Headless CMS design
 - Content delivery optimization
 - Content personalization
+
+</td>
+</tr>
+</table>
+
+### 🌟 New & Innovative Agents
+
+<table>
+<tr>
+<td width="33%">
+
+**🧭 Agent Selector**
+- Meta-agent for finding the right specialist
+- Analyzes requirements holistically
+- Recommends optimal agent combinations
+- Guides complex multi-agent workflows
+
+</td>
+<td width="33%">
+
+**🔷 GraphQL Specialist**
+- GraphQL schema design & optimization
+- Resolver performance & DataLoader
+- Federation & microservices
+- Real-time subscriptions
+
+</td>
+<td width="33%">
+
+**🔭 Observability Engineer**
+- OpenTelemetry & distributed tracing
+- SLO/SLI design & error budgets
+- Advanced monitoring beyond metrics
+- Incident response automation
 
 </td>
 </tr>
